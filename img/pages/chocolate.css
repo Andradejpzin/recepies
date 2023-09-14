@@ -1,0 +1,45 @@
+*{
+    font-size: 130%;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    text-align: center;
+  
+}
+body{
+
+    background-image: url(../Bolo-de-chocolate\ for\ java.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    color: rgb(0, 0, 0);
+}
+.receita{
+    font-size: 80%;
+    margin-top: 7%;
+    color: rgb(0, 0, 0);
+}
+
+.ingredientes{
+    font-size: 90%;
+    color: white;
+}
+
+.calda{
+    font-size:80%;
+    color: rgb(255, 255, 255);
+}
+
+.ingrecalda{
+    color: rgb(255, 255, 255);
+}
+
+#voltar{
+    border-radius: 30px;
+    font-size: 60%;
+}
+
+#voltar:hover{
+    background-color: rgb(61, 49, 51);
+}

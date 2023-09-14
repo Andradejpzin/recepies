@@ -1,0 +1,47 @@
+*{
+    font-family: 'Qwitcher Grypen', cursive;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url(./img/bolo\ 2.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.container{
+    font-size: 1000%;
+    font-weight:bolder;
+    color: rgb(0, 0, 0);
+}
+
+#btnChocolate{
+    margin-top: 15%;
+    font-size: 350%;
+    border-radius: 18px;
+    background-color: rgb(63, 63, 63);
+    color: rgb(255, 255, 255);
+   
+}
+
+#btnChocolate:hover{
+    background-color: rgb(114, 114, 114);
+}
+
+#btnmassabranca{
+    font-size: 350%;
+    border-radius: 18px;
+    background-color: rgb(65, 63, 63);
+    color: rgb(255, 255, 255);
+}
+
+#btnmassabranca:hover{
+    background-color: rgb(114, 114, 114) ;
+}
+
+#qualdeseja{
+    color: rgb(184, 184, 184);
+    font-size: 60%;
+
+}
